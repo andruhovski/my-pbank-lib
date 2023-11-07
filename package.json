@@ -1,0 +1,11 @@
+{
+  "name": "my-pbank-lib",
+  "version": "1.0.0",
+  "description": "My Privat Bank Lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.mjs"
+  },
+  "author": "Andriy",
+  "license": "ISC"
+}
